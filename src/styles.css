@@ -1,21 +1,22 @@
 .btn{
-    font-size: 30px;
+    font-size: 2vw;
 }
 .form:focus{
     color: orange;
 }
 .form{
-    font-size: 15px;
+    font-size: 1vw;
 }
 #date{
-    font-size: 15px;
+    font-size: 1vw;
 }
 .btn:hover{
     background-color: orange;
 }
 .logo{
-    padding: 15px;
+    padding: 2vw;
 }
 .body{
     background-color: rgb(39, 44, 38);
 }
+@media screen and (max-width: 1280px; max-height: 720px)
